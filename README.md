@@ -5,6 +5,11 @@ crypto tax calculators — published so traders, developers, and researchers
 can see exactly which federal figures the calculators use, and check them
 against the IRS source documents.
 
+> **Tax year:** 2026 · **Verified:** 2026-10-31, checked line by line against
+> the IRS source — [Rev. Proc. 2025-32](https://www.irs.gov/pub/irs-drop/rp-25-32.pdf)
+> · **Next update:** after the IRS publishes the tax year 2027 parameters
+> (released each Oct–Nov), this repository will be refreshed to the new year.
+
 The live tools that run on these tables:
 
 - [Crypto Tax Calculator](https://cryptotaxai.ai/tools/crypto-tax-calculator) — gain/loss and estimated federal tax on a sale
